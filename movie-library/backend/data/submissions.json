@@ -1,0 +1,12 @@
+[
+    {
+        "id": "sub_6ab6d26be22f05.39343216",
+        "firstName": "test",
+        "lastName": "test",
+        "email": "test@test.com",
+        "phone": "0777777777",
+        "comments": "test",
+        "submittedAt": "2026-09-25T21:58:35+02:00",
+        "ip": "::1"
+    }
+]
